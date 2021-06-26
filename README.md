@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="gameplay" src=".github/icon.png" width="160px">
+  <img alt="gameplay" src=".github/logo2.png" width="160px">
 </p>
 
 <p align="center">
